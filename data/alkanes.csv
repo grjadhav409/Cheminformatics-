@@ -1,0 +1,39 @@
+name,charge,species,species1,species2,species3,enthalpy,hfg_0K
+Decane,0,C10H22,10,22.0,,-249.7,
+Nonane,0,C9H20,9,20.0,,-228.3,
+tetramethylbutane,0,(CH3)3CC(CH3)3,3,3.0,3.0,-226.2,
+Octane,0,C8H18,8,18.0,,-208.4,
+2-methylhexane,0,C7H16,7,16.0,,-195.0,
+3-methylhexane,0,C7H16,7,16.0,,-192.3,
+heptane,0,C7H16,7,16.0,,-187.8,
+"Butane, 2,2-dimethyl-",0,C6H14,6,14.0,,-184.0,-143.5
+"Butane, 2,3-dimethyl-",0,C6H14,6,14.0,,-177.8,
+"Pentane, 2-methyl-",0,C6H14,6,14.0,,-174.6,-135.3
+"Pentane, 3-methyl-",0,C6H14,6,14.0,,-172.0,-132.5
+"Propane, 2,2-dimethyl-",0,C5H12,5,12.0,,-167.9,-135.0
+Hexane,0,C6H14,6,14.0,,-166.9,-130.1
+"Butane, 2-methyl-",0,C5H12,5,12.0,,-153.7,-119.7
+Pentane,0,C5H12,5,12.0,,-146.8,-114.9
+Isobutane,0,CH3CH(CH3)CH3,3,3.0,3.0,-135.0,-106.4
+adamantane,0,C10H16,10,16.0,,-134.4,
+cyclooctane,0,C8H16,8,16.0,,-126.1,
+Butane,0,CH3CH2CH2CH3,3,2.0,2.0,-125.79,-98.53
+Cyclohexane,0,C6H12,6,12.0,,-123.14,-83.8
+cycloheptane,0,C7H14,7,14.0,,-118.1,-72.9
+"Cyclopentane, methyl-",0,C6H12,6,12.0,,-106.69,
+Propane,0,C3H8,3,8.0,,-104.7,-82.4
+Ethane,0,C2H6,2,6.0,,-84.0,-68.38
+Cyclopentane,0,C5H10,5,10.0,,-77.1,-44.5
+Methane,0,CH4,4,,,-74.6,-66.63
+Norbornane,0,C7H12,7,12.0,,-54.9,
+Ethylcyclobutane,0,C6H12,6,12.0,,-27.7,7.7
+"Cyclopropane, 1,1-dimethyl-",0,C5H10,5,10.0,,-8.2,20.8
+"Cyclopentene, 1-methyl-",0,C6H10,6,10.0,,-3.6,
+cyclobutane,0,C4H8,4,8.0,,28.4,53.0
+Bicyclo[3.1.0]hexane,0,C6H10,6,10.0,,38.91,
+Cyclopropane,0,C3H6,3,6.0,,53.3,70.4
+Bicyclo[2.1.0]pentane,0,C5H8,5,8.0,,157.74,
+Spiropentane,0,C5H8,5,8.0,,185.2,
+Bicyclo[1.1.0]butane,0,C4H6,4,6.0,,217.15,
+Quadricyclane,0,C7H8,7,8.0,,336.0,
+cubane,0,C8H8,8,8.0,,622.2,
