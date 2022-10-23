@@ -1,4 +1,2 @@
 # Cheminformatics-
 
-
-@ pat walters
